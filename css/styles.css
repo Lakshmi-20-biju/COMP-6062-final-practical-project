@@ -1,0 +1,20 @@
+header{
+    background-color: #f1bf98;
+    padding: 55px;
+    margin-left: 55px;
+    border: 2px;
+    border-bottom: #ff0088;
+}
+h1{
+    color: #ff0015;
+}
+footer{
+    color: #053225; 
+}
+@media(max-width:650px){
+    body{
+        background-color: #364431;
+        color:#fff;
+        font-family: "Comic Sans MS", "Comic Sans", cursive;
+    }
+}
